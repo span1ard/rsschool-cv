@@ -8,3 +8,9 @@ I have been working as software developer for many years. I have done a wide ran
 -Experience-
 I have my own pet project (online game), that grown up as much as I did not expected. It has been quite popular for ten years (2008-2018). My role was as project manager and one of software developers. Since 2018 the project was lost idea actuality, but all services still works for the last players, and I still spend some time for maintence.
 Now and then (since 2018), I work as freelance python developer. Not full time, just a hobby. I have public profile on `Upwork` platform with various completed tasks and good feedbacks.
+
+-Skills-
+pawn, sql, bash, sql programming (t-sql), a bit of python. No any frameworks.
+        
+-Education-
+2006-2011 Moscow State Institute of Radio Engineering, Electronics and Automation (Technical University) - Applied Mathematics.
